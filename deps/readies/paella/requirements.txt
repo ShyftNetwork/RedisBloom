@@ -1,0 +1,7 @@
+addict
+click
+jinja2
+requests
+six
+toml
+virtualenv
